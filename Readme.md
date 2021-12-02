@@ -1,6 +1,6 @@
 # ThunderClass
 
-This repository implements ThunderClass, a Video conference software written in C++. It supports multiple functions, including chat, quiz, sharing screen, user management and calling the roll. 
+This repository implements ThunderClass, a Video conference software written in C++. It supports multiple functions, including group-chat, quiz, screen-sharing, voice-sharing, user management and calling the roll. 
 
 ## Usage
 
